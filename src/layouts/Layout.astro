@@ -31,19 +31,24 @@ const {
 <!doctype html>
 <html lang="en">
   <head>
+    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
+    <!-- TODO: Cambiar canonical -->
+    <!-- TODO Cambair openGraph -->
+    <!-- TODO Cambair twitter -->
+    <!-- TODO Cambair extend -->
     <SEO
       title={title}
-      titleTemplate="%s - Astro Framework Theme"
+      titleTemplate="%s - Chess Game"
       description="Your comprehensive guide to building modern websites with Astro Framework"
       canonical="https://ultimate-astro-template.vercel.app/"
       noindex={false}
       nofollow={false}
       openGraph={{
         basic: {
-          title: title || "Astro Framework Theme",
+          title: title || "Chess Game",
           type: "website",
           image: "/astro-template.png",
           url: "https://ultimate-astro-template.vercel.app/",
@@ -126,7 +131,7 @@ const {
       diagonalColor={diagonalColor}
       vignetteColor={vignetteColor}
     />
-    <Header />
+    <!-- <Header /> -->
     <slot />
     <div class="mb-32">
       <Footer />

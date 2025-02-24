@@ -1,5 +1,8 @@
 {
-  "name": "Marve10s",
+  "name": "chess_game_client",
+  "author": {
+    "name": "Ismael Treviño"
+  },
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -18,19 +21,24 @@
     "@astrojs/vue": "^5.0.4",
     "@babel/runtime": "^7.26.0",
     "@motionone/solid": "^10.16.4",
+    "@react-three/drei": "^10.0.2",
+    "@react-three/fiber": "^9.0.4",
     "@types/react": "^18.2.48",
     "@types/react-dom": "^18.2.18",
+    "@types/three": "^0.173.0",
     "@vercel/analytics": "^1.4.1",
     "astro": "^5.1.2",
     "astro-icon": "^1.1.4",
     "astro-seo": "^0.8.4",
     "framer-motion": "^11.13.5",
+    "gltfjsx": "^6.5.3",
     "polished": "^4.3.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "solid-js": "^1.9.3",
     "svelte": "^5.10.0",
     "tailwindcss": "^3.4.15",
+    "three": "^0.173.0",
     "typescript": "^5.7.2"
   }
 }

@@ -8,7 +8,11 @@
 		"vscode": {
 			"extensions": [
 				"astro-build.astro-vscode",
-				"vivaxy.vscode-conventional-commits"
+				"vivaxy.vscode-conventional-commits",
+				"Gruntfuggly.todo-tree",
+				"bradlc.vscode-tailwindcss",
+				"usernamehw.errorlens",
+				"dsznajder.es7-react-js-snippets"
 			]
 		}
 	},
