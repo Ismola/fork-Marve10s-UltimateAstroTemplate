@@ -4,6 +4,8 @@
 > [!WARNING]  
 > Project still in development
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0a6ac335-e9b2-42a5-861d-37ad254f0c1f/deploy-status)](https://app.netlify.com/sites/luminous-caramel-e13cce/deploys)
+
 ![Chess Game](./readme_images/chessgame.ismola.dev_.png)
 
 
